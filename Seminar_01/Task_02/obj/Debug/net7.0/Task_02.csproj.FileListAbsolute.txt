@@ -1,0 +1,15 @@
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\bin\Debug\net7.0\Task_02.exe
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\bin\Debug\net7.0\Task_02.deps.json
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\bin\Debug\net7.0\Task_02.runtimeconfig.json
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\bin\Debug\net7.0\Task_02.dll
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\bin\Debug\net7.0\Task_02.pdb
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.csproj.AssemblyReference.cache
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfoInputs.cache
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfo.cs
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.dll
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\refint\Task_02.dll
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.pdb
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\Task_02.genruntimeconfig.cache
+C:\Users\VeNoM\Desktop\Home Work C#\Seminar_01\Task_02\obj\Debug\net7.0\ref\Task_02.dll
