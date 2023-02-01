@@ -8,10 +8,10 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 if (a > b)
 {
-    Console.Write("a");
+    Console.Write(a);
 }
 
 else
 {
-    Console.Write("b");
-}
+    Console.Write(b);
+};
