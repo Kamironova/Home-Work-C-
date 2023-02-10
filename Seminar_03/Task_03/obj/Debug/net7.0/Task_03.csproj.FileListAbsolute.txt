@@ -1,0 +1,15 @@
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/bin/Debug/net7.0/Task_03
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/bin/Debug/net7.0/Task_03.deps.json
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/bin/Debug/net7.0/Task_03.runtimeconfig.json
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/bin/Debug/net7.0/Task_03.dll
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/bin/Debug/net7.0/Task_03.pdb
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.csproj.AssemblyReference.cache
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.AssemblyInfoInputs.cache
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.AssemblyInfo.cs
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.csproj.CoreCompileInputs.cache
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.dll
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/refint/Task_03.dll
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.pdb
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/Task_03.genruntimeconfig.cache
+/Users/kamironova/Desktop/C# HomeWork/Home-Work-C-/Seminar_03/Task_03/obj/Debug/net7.0/ref/Task_03.dll
