@@ -3,15 +3,6 @@
 
 Console.Clear();
 
-// string str = Console.ReadLine();
-// string[] arr = str.Split();
-// double[] arrint = new double[arr.Length];
-
-// for (double i = 0; i < arr.Length; i++)
-// {
-//     double[] = Convert.ToDouble(arr[i]);
-// }
-
 System.Console.Write("Введите количество элементов массива --> ");
 int a = Convert.ToInt32(Console.ReadLine());
 
